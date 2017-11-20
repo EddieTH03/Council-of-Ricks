@@ -1,0 +1,122 @@
+{
+	"index": 15,
+	"1": {
+		"a": "Charles Dickens",
+		"b": "JK Rowling",
+		"c": "JRR Tolkein",
+		"d": "Roald Dhal",
+		"q": "Who wrote Great Expectations?"
+	},
+
+	"2": {
+		"a": "Ugly",
+		"b": "Beautiful",
+		"c": "Stranger",
+		"d": "Sweet",
+		"q": "What is a synonym of Pretty?"
+	},
+
+	"3": {
+		"a": "Scotland",
+		"b": "Ireland",
+		"c": "England",
+		"d": "Wales",
+`		"q": "Which country is Macbeth set in?"
+	},
+
+	"4": {
+		"a": "George Orwell",
+		"b": "Rudyard Kipling",
+		"c": "Oscar Wilde",
+		"d": "Jane Austen",
+		"q": "Who wrote 1984?"
+	},
+
+	"5": {
+		"a": "Sonnet",
+		"b": "Poem",
+		"c": "Lymerick",
+		"d": "Elegy",
+		"q": "What do you call a poem with 14 lines?"
+	},
+
+	"6": {
+		"a": "To describe a verb",
+		"b": "To describe an adjective",
+		"c": "To join two ideas together in one sentence",
+		"d": "To introduce speech",
+		"q": "What is the purpose of an adverb?"
+	},
+
+	"7": {
+		"a": "Monotonous",
+		"b": "Vibrant",
+		"c": "Cheerful",
+		"d": "Innovative",
+		"q": "What is an antonym for Exciting?"
+	},
+
+	"8": {
+		"a": "The main character in a story",
+		"b": "The enemy in a story",
+		"c": "A type of argument",
+		"d": "A book",
+		"q": "What is a protagonist?"
+	},
+
+	"9": {
+		"a": "Evidence",
+		"b": "Explain",
+		"c": "Exciting",
+		"d": "Enjambemt",
+		"q": "What does the first E stand for in PEE?"
+	},
+
+	"10": {
+		"a": "1526",
+		"b": "0",
+		"c": "1066",
+		"d": "2017",
+		"q": "When was the Bible first translated into English?"
+	},
+
+	"11": {
+		"a": "Quentin Blake",
+		"b": "Picasso",
+		"c": "Dr Seuss",
+		"d": "Beatrix Potter",
+		"q": "Who illustrated for Roald Dhal?"
+	},
+
+	"12": {
+		"a": "Novella",
+		"b": "Novel",
+		"c": "Poem",
+		"d": "Column",
+		"q": "What is George Orwell's Animal Farm?"
+	},
+
+	"13": {
+		"a": "Aslan",
+		"b": "Peter",
+		"c": "Susan",
+		"d": "Caspian",
+		"q": "What is the Lion's name in Narnia?"
+	},
+
+	"14": {
+		"a": "Question Mark",
+		"b": "Exclamation Mark",
+		"c": "Comma",
+		"d": "Squiggly line with a dot",
+		"q": "What is this: '?' ?"
+	},
+
+	"15": {
+		"a": "Anthony Horowitz",
+		"b": "Quentin Blake",
+		"c": "Roger McGough",
+		"d": "Jane Austen",
+		"q": "Who wrote Alex Rider?"
+	},
+}
